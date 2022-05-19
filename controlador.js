@@ -72,7 +72,7 @@ let producto8={
 }
 
 let producto9={
-    nombre:"producto9",
+    nombre:"nike -rt 25",
     precio:330000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/17.jpg?alt=media&token=bf15fa85-78b0-4ca7-bda8-c992ec17bd60",
@@ -81,7 +81,7 @@ let producto9={
 }
 
 let producto10={
-    nombre:"producto10",
+    nombre:"nike-look",
     precio:190000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/18.jpg?alt=media&token=a7991b64-e9dc-40cd-9637-a893ea3e7cd4",
@@ -90,7 +90,7 @@ let producto10={
 }
 
 let producto11={
-    nombre:"producto11",
+    nombre:"retro-1 shot",
     precio:780000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/19.png?alt=media&token=b95346c2-52e6-48d3-b584-1d82d8a39618",
@@ -99,7 +99,7 @@ let producto11={
 }
 
 let producto12={
-    nombre:"producto12",
+    nombre:"originals",
     precio:430000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/2.webp?alt=media&token=1a00cc38-2e99-4b76-a3ea-cd834d373ca8",
@@ -108,7 +108,7 @@ let producto12={
 }
 
 let producto13={
-    nombre:"producto13",
+    nombre:"bultwist",
     precio:500000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/21.jpg?alt=media&token=3f523d4f-7bf4-4494-a280-b0d801fca439",
@@ -117,7 +117,7 @@ let producto13={
 }
 
 let producto14={
-    nombre:"producto14",
+    nombre:"molwist",
     precio:500000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/20.jpg?alt=media&token=070ce857-ef97-477a-9604-0e234f788c13",
@@ -126,7 +126,7 @@ let producto14={
 }
 
 let producto15={
-    nombre:"producto15",
+    nombre:"zulwist",
     precio:900000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/21.jpg?alt=media&token=3f523d4f-7bf4-4494-a280-b0d801fca439",
@@ -134,7 +134,7 @@ let producto15={
     popularidad:"⭐⭐⭐⭐⭐"
 }
 let producto16={
-    nombre:"producto1",
+    nombre:"zapwist",
     precio:180000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/23.jfif?alt=media&token=2a84b515-8304-4185-bb8f-bc9dbc5b0382",
@@ -142,7 +142,7 @@ let producto16={
     popularidad:"⭐⭐⭐"
 }
 let producto17={
-    nombre:"producto1",
+    nombre:"dylwist",
     precio:470000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/24.jfif?alt=media&token=950aff6e-65fb-4ef8-9e53-c8a0a0a0dc06",
@@ -150,7 +150,7 @@ let producto17={
     popularidad:"⭐⭐⭐⭐"
 }
 let producto18={
-    nombre:"producto1",
+    nombre:"santwist",
     precio:459000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/25.jfif?alt=media&token=8e23966d-fa94-4031-92c2-0c5e28af274d",
@@ -158,7 +158,7 @@ let producto18={
     popularidad:"⭐⭐⭐⭐⭐"
 }
 let producto19={
-    nombre:"producto1",
+    nombre:"verwist",
     precio:800000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/26.jfif?alt=media&token=583fd934-741d-4007-94b0-ba9d4df6f29a",
@@ -166,7 +166,7 @@ let producto19={
     popularidad:"⭐⭐⭐"
 }
 let producto20={
-    nombre:"producto1",
+    nombre:"jarwist",
     precio:700000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/27.png?alt=media&token=eb50be13-5c7f-462d-baa2-7b3953cbce03",
@@ -174,7 +174,7 @@ let producto20={
     popularidad:"⭐⭐⭐⭐⭐"
 }
 let producto21={
-    nombre:"retrox-069",
+    nombre:"nike-recon",
     precio:590000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/28.jpg?alt=media&token=aa5d0194-b9d0-4da0-a3b9-1b23808c651e",
@@ -182,7 +182,7 @@ let producto21={
     popularidad:"⭐⭐⭐"
 }
 let producto22={
-    nombre:"retrox-069",
+    nombre:"nike-jup",
     precio:350000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/29.jfif?alt=media&token=54393b8f-1aea-4421-a1f2-346c85ca0b16",
@@ -190,7 +190,7 @@ let producto22={
     popularidad:"⭐⭐⭐⭐⭐"
 }
 let producto23={
-    nombre:"retrox-069",
+    nombre:"nike-zamb",
     precio:900000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/3.jpg?alt=media&token=83e33189-192a-4473-9726-9aaa329c527c",
@@ -198,7 +198,7 @@ let producto23={
     popularidad:"⭐⭐⭐"
 }
 let producto24={
-    nombre:"retrox-069",
+    nombre:"nike-zafir",
     precio:290000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/30.jfif?alt=media&token=d58a7728-3785-478e-8d6f-2b56c5b41a2c",
@@ -206,7 +206,7 @@ let producto24={
     popularidad:"⭐⭐⭐⭐"
 }
 let producto25={
-    nombre:"retrox-069",
+    nombre:"buck-shoes",
     precio:280000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/31.jpg?alt=media&token=3fe558d5-2bfb-4e50-876c-331704cb4117",
@@ -214,7 +214,7 @@ let producto25={
     popularidad:"⭐⭐⭐"
 }
 let producto26={
-    nombre:"retrox-069",
+    nombre:"morty.s",
     precio:389000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/32.jfif?alt=media&token=239b57a3-f5ea-4911-a936-b5256b4c0367",
@@ -222,7 +222,7 @@ let producto26={
     popularidad:"⭐⭐⭐"
 }
 let producto27={
-    nombre:"retrox-069",
+    nombre:"global-retro3",
     precio:100000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/33.jfif?alt=media&token=ca078c3e-5492-43cc-97f6-d7e87fbe3cde",
@@ -230,7 +230,7 @@ let producto27={
     popularidad:"⭐⭐⭐⭐⭐"
 }
 let producto28={
-    nombre:"retrox-069",
+    nombre:"air-brian23",
     precio:485000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/34.jfif?alt=media&token=37de08d2-b6be-4f6c-b73c-4ffec0ccf595",
@@ -238,7 +238,7 @@ let producto28={
     popularidad:"⭐⭐⭐"
 }
 let producto29={
-    nombre:"retrox-069",
+    nombre:"l-29",
     precio:517000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/35.jpg?alt=media&token=fa511557-6c4e-409d-abc7-2c16f17ef3fb",
@@ -246,7 +246,7 @@ let producto29={
     popularidad:"⭐⭐⭐⭐⭐"
 }
 let producto30={
-    nombre:"retrox-069",
+    nombre:"l-89",
     precio:760000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/36.jpg?alt=media&token=bff24a71-5796-4e74-8181-3087a61f89fd",
@@ -254,7 +254,7 @@ let producto30={
     popularidad:"⭐⭐⭐"
 }
 let producto31={
-    nombre:"retrox-069",
+    nombre:"for-3",
     precio:790000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/37.jpg?alt=media&token=51a2036b-6595-47e6-823f-edf179839089",
@@ -262,7 +262,7 @@ let producto31={
     popularidad:"⭐⭐⭐⭐"
 }
 let producto32={
-    nombre:"retrox-069",
+    nombre:"air-lon4",
     precio:852000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/38.jfif?alt=media&token=fdaed6aa-ea57-4f96-a527-0aab91f01a8c",
@@ -270,7 +270,7 @@ let producto32={
     popularidad:"⭐⭐⭐⭐⭐"
 }
 let producto33={
-    nombre:"retrox-069",
+    nombre:"tecno-nike",
     precio:984000,
     estado:"Nuevo",
     foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-8d5df.appspot.com/o/39.jfif?alt=media&token=944f7ce2-4263-4a5e-81ae-f9232f7c69a9",
